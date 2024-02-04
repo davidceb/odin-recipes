@@ -3,3 +3,6 @@ body {
     background-color: black;
     color: whitesmoke;
 }
+ul, ol, li {
+    text-align: left;
+}
