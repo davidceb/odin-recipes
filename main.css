@@ -6,3 +6,12 @@ body {
 ul, ol, li {
     text-align: left;
 }
+a {
+    color: hotpink; 
+}
+a:hover {
+    color: violet;
+}
+.paragraph {
+    text-align: left;
+} 
